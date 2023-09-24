@@ -12,7 +12,7 @@ function Home() {
             <div className="card h-100">
             <div>
             <a className="nav-link" href="https://www.guvi.in/blog/top-full-stack-developer-tools/">
-            <img src="https://www.guvi.in/blog/wp-content/uploads/2023/07/image-6.png" className="card-img-top"/>
+            <img src="https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development-1536x804.webp" className="card-img-top"/>
             </a>
             </div>
         <div className="card-body mt-2">
@@ -37,7 +37,7 @@ function Home() {
             <div className="card h-100">
             <div>
             <a className="nav-link" href="https://www.guvi.in/blog/top-full-stack-developer-tools/">
-            <img src="https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Top-10-Tools-Every-Full-Stack-Developer-Should-Master-in-2023-1536x804.png" className="card-img-top"/>
+            <img src="https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development-1536x804.webp" className="card-img-top"/>
             </a>
             </div>
         <div className="card-body mt-2">
@@ -63,7 +63,7 @@ function Home() {
             <div className="card h-100">
             <div>
             <a className="nav-link" href="https://www.guvi.in/blog/top-must-know-full-stack-development-applications/">
-            <img src="https://www.guvi.in/blog/wp-content/uploads/2023/08/The-Ultimate-Guide-to-Real-World-Full-Stack-Development-Applications-1536x804.png" className="card-img-top"/>
+            <img src="https://www.guvi.in/blog/wp-content/uploads/2023/07/best-way-to-learn-full-stack-development-1536x804.webp" className="card-img-top"/>
             </a>
             </div>
         <div className="card-body mt-2">
