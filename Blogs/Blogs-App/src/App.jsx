@@ -19,7 +19,7 @@ function App() {
       <Header />
           <hr />
         <Navbar />
-        {/* Routes componenet to redirect the path from Link to file name */}
+        {/* Routes componenet to redirect the path from Link to file name and change diretory */}
         <Routes>
            <Route path='/' element={<Home />} />
           <Route path='/full-stack-development' element={<FullStackDeveloper />} />

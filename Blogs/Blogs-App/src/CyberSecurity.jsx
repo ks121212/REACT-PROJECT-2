@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap/dist/js/bootstrap.js'
 import './App.css'
 function CyberSecurity() {
+    // used to cards and navigate link inside anchor tag
   return (
     <div className='container'>
     <div className='row'>
