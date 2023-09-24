@@ -1,0 +1,40 @@
+Link{
+    font-weight: bold;
+    prefix: -3;
+}
+.card-title{
+    font-size: 21px;
+     line-height: 21px;
+      font-weight: 400;
+       font-family: sans-serif;
+}
+.card-text{
+    font-size: 14px;
+}
+p{
+    color: rgb(0, 125, 254); 
+    font-weight: bold;
+     font-size: 12px; 
+    line-height: 12px;
+}
+.card-footer{
+    line-height: 15px;
+}
+.col-lg{
+    flex-wrap: wrap;
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-wrap: wrap;
+}
+.row{
+    margin-top: 10px;
+    padding-top: 15px;
+}
+.footer{
+    text-decoration: none;
+     color: rgb(50, 205, 50); 
+     font-weight: bold;
+     background-color: rgba(0, 0, 0, 0.2);
+}
